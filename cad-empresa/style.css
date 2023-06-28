@@ -1,0 +1,30 @@
+div{ text-align: center;}
+div{text-decoration: cornflowerblue;}
+
+body{ background-color: cyan;}
+div {
+    background-color: lightgreen;
+    inline-size: 70%;
+    border-block-width: 2px;
+    width: 30%;
+  }
+  
+  #example1 {
+    border-block-style: solid;
+    border-block-color: pink;
+  }
+  
+  #example2 {
+    border-block-style: solid;
+    border-block-color: pink lightblue;
+  }
+  form,label{
+  display: block;
+  padding: 8px;
+  }
+  .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
